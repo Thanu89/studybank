@@ -1,0 +1,13 @@
+fuzzywuzzy
+python-Levenshtein
+pdf2image
+PyPDF2
+pytesseract
+python-multipart
+fastapi
+uvicorn[standard]
+flask
+flask-restful
+opencv-python==4.2.0.32
+scikit-image
+pikepdf
