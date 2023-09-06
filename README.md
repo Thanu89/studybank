@@ -109,3 +109,6 @@ You need to run the API service before running this.
 First start the servers for the frontend and the backend by going to the respective directories and running the command `npm start`
 Afterwards start the API using the above command and then go to http://localhost:3000/. Then create an account/log in and then go to the
 drop down menu and navigate to the plagiarism checker page. Now upload two PDF files and wait for the algorithm to return the JSON file.
+
+### Studybank
+My Final Year Project. A website that allows users to upload their notes so they can then sell the notes to other users. To ensure there is no copyright enfringement the website will then directly compare the notes to the original source of where the notes are derived from, usually a textbook in order to check for plagiarism. Plagiarism detection is done on both text and images before allowing the user to sell their notes on the website.
