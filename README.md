@@ -1,6 +1,9 @@
-# Plagiarism Detection Algorithm
+# 💫 About This Project:
+My Final Year Project. A website that allows users to upload their notes so they can then sell the notes to other users. To ensure there is no copyright enfringement the website will then directly compare the notes to the original source of where the notes are derived from, usually a textbook in order to check for plagiarism. Plagiarism detection is done on both text and images before allowing the user to sell their notes on the website.<br>
 
-Plagiarism detection algorithm that does text and image matching.
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Prerequisites
 
@@ -112,3 +115,5 @@ drop down menu and navigate to the plagiarism checker page. Now upload two PDF f
 
 ### Studybank
 My Final Year Project. A website that allows users to upload their notes so they can then sell the notes to other users. To ensure there is no copyright enfringement the website will then directly compare the notes to the original source of where the notes are derived from, usually a textbook in order to check for plagiarism. Plagiarism detection is done on both text and images before allowing the user to sell their notes on the website.
+
+
